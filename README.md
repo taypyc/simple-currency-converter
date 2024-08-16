@@ -9,10 +9,10 @@
 2. Download all dependencies with <b>npm install</b> or just <b>npm i</b>
 3. Run the application using the <b>npm run start</b> command.
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 
 You may also see any lint errors in the console.
