@@ -5,9 +5,11 @@
 
 ---
 
-For start: `npm start`
+1. Clone the repository to your computer (by executing the command: git clone <git@github.com>:taypyc/articles-application.git in the terminal).
+2. Run the application using the <b>npm run start</b> command.
 
 Runs the app in the development mode.\
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
