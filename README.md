@@ -5,7 +5,7 @@
 
 ---
 
-1. Clone the repository to your computer (by executing the command: git clone <git@github.com>:taypyc/articles-application.git in the terminal).
+1. Clone the repository to your computer (by executing the command: git clone <git@github.com>:taypyc/simple-currency-converter.git in the terminal).
 2. Run the application using the <b>npm run start</b> command.
 
 Runs the app in the development mode.\
