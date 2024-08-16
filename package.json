@@ -1,6 +1,6 @@
 {
   "name": "simple-currency-converter",
-  "homepage": "",
+  "homepage": "https://simple-currency-converter-beta.vercel.app",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
